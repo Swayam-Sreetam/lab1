@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://Swayam-Sreetam.github.io/reactcicd",
+  "homepage": "https://Swayam-Sreetam.github.io/lab1",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
